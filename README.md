@@ -102,7 +102,7 @@ For salary-based comparisons, midpoint estimates were calculated from the survey
 
 - **Python was the dominant programming language:** 66.67% of respondents selected Python as their favorite programming language, substantially ahead of R (16.03%) and SQL (7.46%).
 
-- **Salary by role:** Data Scientists reported the highest estimated average salary (~$86K), followed by Data Engineers (~$61K) and Data Analysts (~$55K) among roles with at least 10 respondents.
+- **Salary by role:** Among roles with at least 10 respondents, Data Scientists reported the highest estimated average salary at approximately $86K, followed by Data Engineers at $61K and Data Analysts at $55K.
 
 - **Higher salary ranges generally corresponded with greater salary satisfaction:** Average salary happiness increased from 2.86/10 among respondents earning $0–40K to 8.15/10 among those earning $150–225K.
 
